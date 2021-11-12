@@ -296,7 +296,7 @@
   flex-direction: column;
 }
 
-.footer__column_content-copyright{
+.footer__column_content_copyright{
   flex-basis: 711px;
   justify-content: space-between;
 }
