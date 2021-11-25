@@ -8,4 +8,5 @@
   font-weight: normal;
   line-height: 25px;
   margin: 0;
+  z-index: 1;
 }
